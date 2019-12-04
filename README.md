@@ -14,11 +14,12 @@ Records the pcaps what's it for...
 
 - 20.84.pcap  
 	date: 2019/12/3  
-	mac_lvs: 00:50:56:90:d7:41
+	mac_lvs: 00:50:56:90:d7:41  
 	mac_83(osips): 00:50:56:90:f9:de  
 	mac_84(osips): 00:50:56:90:6a:45  
-	Notes: stateful->stateless proxy
-	tm,rr,dialog,uac has been removed. ?
-	load_balancer->dispatcher
-	record_route, uac_replace_from/to cannot use...
+	Notes: stateful->stateless proxy  
+	tm,rr,dialog,uac has been removed. ?  
+	load_balancer->dispatcher  
+	record_route, uac_replace_from/to cannot use...  
+
 
