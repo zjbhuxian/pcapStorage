@@ -22,4 +22,12 @@ Records the pcaps what's it for...
 	load_balancer->dispatcher  
 	record_route, uac_replace_from/to cannot use...  
 
-
+- 20.83_add_record_route.pcap  
+	date: 2019/12/5  
+	mac_lvs: 00:50:56:90:d7:41  
+	mac_83(osips): 00:50:56:90:f9:de  
+	mac_84(osips): 00:50:56:90:6a:45  
+	Notes: stateful->stateless proxy  
+	tm,rr,dialog,uac has been added.  
+	load_balancer->dispatcher  
+	record_route, uac_replace_from/to can use...  
